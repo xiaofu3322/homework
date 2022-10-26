@@ -55,4 +55,4 @@ plt.setp(lines2, color='y', linewidth=2.0)
 
 plt.show()
 
-#print(lines)
+print(lines)
